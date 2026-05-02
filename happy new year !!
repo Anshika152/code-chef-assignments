@@ -1,0 +1,15 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main() 
+{
+int X;
+cin >>x;
+
+int remaining=0;
+for(int i=X; i<24; i++) 
+{
+remaining++;
+}
+cout << remaining;
+return 0;
+}
